@@ -1,0 +1,9 @@
+minimisation 
+ &cntrl
+  imin=1, maxcyc=10000, ncyc=5000,
+  ntb=1,
+  ntpr=100,
+  ntr=1, restraint_wt=20, restraintmask=':1-1262',
+  /
+
+

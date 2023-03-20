@@ -1,0 +1,7 @@
+minimisation 
+ &cntrl
+  imin=1, maxcyc=10000, ncyc=5000,
+  ntb=1,
+  ntpr=50,
+  /
+

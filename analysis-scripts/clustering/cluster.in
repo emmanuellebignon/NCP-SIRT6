@@ -1,0 +1,8 @@
+parm ../ncp-sirt6_box.prmtop
+trajin ../ncp-sirt6_box_md1.nc 1 last 5
+
+
+autoimage
+
+cluster hieragglo averagelinkage rms :1-1557 out cnumvtime.dat summaryhalf summary.dat cpopvtime pop.dat normframe repout rep repfmt pdb
+
